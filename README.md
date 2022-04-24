@@ -4,7 +4,7 @@ Java training for Academy Advantest
 ### 怎么学习 Java在线课程？
 1. 按照视频课程由上至下学习必学课程，其余选学课程不做要求可自学（如有精力）
 2. **配好环境，按照老师介绍，练习课堂例程**。可传到github仓库中 github.com
-3. 如有问题先自行google/baidu(比如：java如何输出字符的ASCII码)，如难以解决可以整理好发给mail@adv.com，老师会每周线上答疑
+3. 如有问题先自行google/baidu(比如：java如何输出字符的ASCII码)，如难以解决可以整理好发给[Email](82d87484.ADVANTEST.COM@amer.teams.ms)，老师会每周线上答疑
 
 参考链接:
 - [GitHub入门指南](https://zhuanlan.zhihu.com/p/337959303)
