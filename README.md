@@ -4,7 +4,9 @@ Java training for Academy Advantest
 ### 怎么学习 Java在线课程？
 1. 按照视频课程由上至下学习必学课程，其余选学课程不做要求可自学（如有精力）
 2. **配好环境，按照老师介绍，练习课堂例程**。可传到github仓库中 github.com
-3. 如有问题先自行google/baidu(比如：java如何输出字符的ASCII码)，如难以解决可以整理好发给[Email](mailto:82d87484.ADVANTEST.COM@amer.teams.ms)，老师会每周线上答疑
+3. 如有问题先自行google/baidu(比如：java如何输出字符的ASCII码)，如难以解决可以整理好发送邮件，老师会每周线上答疑
+   Question email address: `0abccd75.ADVANTEST.COM@amer.teams.ms`
+      - **注意：邮件请使用如下标题标注：** `subject: question-week3-张三`
 
 参考链接:
 - [GitHub入门指南](https://zhuanlan.zhihu.com/p/337959303)
@@ -12,9 +14,11 @@ Java training for Academy Advantest
 
 ### Homework:
 #### 提交方式：
-1. 提交源代码及运行结果截图到github，邮件通知作业已完成及仓库链接，或者
-2. 打包源代码及运行结果截图，发送到邮箱
-
+1. 提交源代码及运行结果截图到github，邮件通知作业已完成及仓库链接，**或者**
+2. 打包源代码及运行结果截图，发送邮件
+Homework email address: `1cd6ea25.ADVANTEST.COM@amer.teams.ms`
+   - **注意：邮件请使用如下标题标注：** `subject: homework-week4-李四
+`
 #### 第一周
 课程 1~34
 
